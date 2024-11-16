@@ -1,4 +1,4 @@
-#Pasos para la prueba de cobertura:
+# prueba de cobertura o caja blanca:
 
 Instalar la herramienta:
 ```bash
